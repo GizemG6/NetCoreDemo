@@ -1,0 +1,6 @@
+﻿
+
+
+    Entity Layer (Varlık Katmanı)
+
+Projede bulunan tablolar ve columnlar yer alıyor. Class olarak tutulur.
